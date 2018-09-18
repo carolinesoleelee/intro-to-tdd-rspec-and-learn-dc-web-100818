@@ -5,6 +5,8 @@ describe "current_age_for_birth_year method" do
 
 def current_age_for_birth_year(year_born)
   year_born - 2018
+end
+
   puts current_age_for_birth_year(1984)
 
 
